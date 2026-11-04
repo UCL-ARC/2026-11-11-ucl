@@ -19,7 +19,7 @@ email: ["arc.education+carpentries@ucl.ac.uk"]    # boxed, comma-separated list 
 collaborative_notes: https://codimd.carpentries.org/EW47ZFbUSm6eF7EMenDuGw?edit # URL for the workshop collaborative notes, e.g. an Etherpad or Google Docs document (e.g., https://pad.carpentries.org/2015-01-01-euphoria)
 eventbrite:           # alphanumeric key for Eventbrite registration, e.g., "1234567890AB" (if Eventbrite is being used)
 tickettailor:         # bit that points to tickettailor event "1234567/abc/1100"
-pretix:  https://www.ucl.ac.uk/research-innovation/events/2026/nov/software-carpentry-bash-git-python-11-12-nov-2026             # bit that points to pretix event "organisation/eventid"
+pretix:               # bit that points to pretix event "organisation/eventid"
 what3words:           # what3words (https://what3words.com) address of the workshop venue, without leading slashes e.g. "globe.lessening.computers"
 # DON'T CHANGE THIS
 layout: workshop
@@ -386,6 +386,7 @@ address.
             to-be-announced
             {% endif %}
             for more information.
+            If you are external to UCL and would like to join this workshop, please visit the [ARC event page](https://www.ucl.ac.uk/research-innovation/events/2026/nov/software-carpentry-bash-git-python-11-12-nov-2026) or contact arc.education@ucl.ac.uk to check availability of places.
             </p>
         </dd>
     </div>
