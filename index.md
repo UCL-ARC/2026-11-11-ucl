@@ -386,7 +386,7 @@ address.
             to-be-announced
             {% endif %}
             for more information.
-            If you are external to UCL and would like to join this workshop, please visit the [ARC event page](https://www.ucl.ac.uk/research-innovation/events/2026/nov/software-carpentry-bash-git-python-11-12-nov-2026) or contact arc.education@ucl.ac.uk to check availability of places.
+            If you are external to UCL and would like to join this workshop, please visit the <a href="https://www.ucl.ac.uk/research-innovation/events/2026/nov/software-carpentry-bash-git-python-11-12-nov-2026">ARC Event page</a> or contact arc.education@ucl.ac.uk to check availability of places.
             </p>
         </dd>
     </div>
